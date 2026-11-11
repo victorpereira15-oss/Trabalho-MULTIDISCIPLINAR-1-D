@@ -15,4 +15,8 @@ Exigem a remoção de dados sensíveis e pessoais (como CPF ou nomes) usando df.
 
 6.Futuro e Papel do Técnico em IAA IA trará grande impacto na saúde, educação e trabalho. O papel do profissional não é só programar, mas auditar modelos, garantir a ética, a transparência e a segurança de dados para toda a sociedade.   
 
-Conclusão: O Compromisso Ético e Técnico da Inteligência ArtificialA Inteligência Artificial e a Ciência de Dados funcionam como engrenagens complementares: enquanto a Ciência de Dados recolhe, limpa  normaliza  e analisa as informações passadas ($X$) para prever o futuro ($y$), a Engenharia de IA constrói a infraestrutura segura para transformar essas estatísticas num produto real.   
+7. Engenharia de PromptÉ a arte de escrever instruções claras e bem estruturadas para a IA. O prompt funciona como a entrada que guia a resposta da IA, definindo contexto, estilo e limites para garantir respostas precisas.
+
+8. Alucinação e Limpeza de DadosAlucinação é quando a IA inventa informações falsas com aparência de verdade. Para reduzir esse problema, é fundamental fazer a limpeza prévia dos dados (data cleaning), removendo erros e ruídos antes do treino.
+
+Conclusão : Ciência de Dados analisa o passado ($X$) para prever o futuro ($y$), enquanto a Engenharia de IA transforma esses padrões estatísticos em ferramentas práticas. O valor real de uma solução inteligente não está apenas no código, mas na aplicação ética, segura e transparente que protege a privacidade e evita erros automatizados.
